@@ -28,7 +28,7 @@
 </div>
 
 ### Portfólio Digital: 
-  * <a href="http://kayqueprado.com.br/" target="_blank" style="underline-none">kayqueprado.com.br</a>
+  * <a href="http://kayqueprado.com.br/" target="blank" style="underline-none">kayqueprado.com.br</a>
 
 ## 
 
