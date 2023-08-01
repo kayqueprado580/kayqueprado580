@@ -8,6 +8,12 @@
     </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/kayqueprado580">
+    <img src="https://img.shields.io/github/followers/kayqueprado580?label=Followers&style=social" alt="Followers">
+  </a>
+</div>
+
 
 <div style="display: inline_block"><br>
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
