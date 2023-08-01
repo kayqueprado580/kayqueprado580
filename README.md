@@ -1,19 +1,6 @@
 ## Olá 👋👋 
 ### Eu sou Kayque 👨‍💻 [Desenvolvedor Fullstack] 
 ##
-<div align="center">
-    <a href="https://github.com/kayqueprado580">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kayqueprado580&custom_title=Kayque Prado - Estatísticas Github&show_icons=true&locale=pt-br&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs&title_color='#4e8fa5'"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueprado580&custom_title=Linguagens mais Utilizadas&layout=compact&langs_count=8&theme=dark&include_all_commits=true&hide=HTML,CSS,Less,Handlebars,EJS,CoffeeScript,Hack&count_private=true&title_color='#4e8fa5'"/>
-    </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kayqueprado580">
-    <img src="https://img.shields.io/github/followers/kayqueprado580?label=Followers&style=social" alt="Followers">
-  </a>
-</div>
-
 
 <div style="display: inline_block"><br>
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
@@ -35,7 +22,6 @@
 ### Portfólio Digital: 
 ##Em manutenção...
   * <a href="http://kayqueprado.com.br/" target="blank" style="underline-none">kayqueprado.com.br</a>
-
 ## 
 
 <div>
